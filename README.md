@@ -8,6 +8,10 @@ Learn more about [Remix Stacks](https://remix.run/stacks).
 npx create-remix@latest --template remix-run/indie-stack
 ```
 
+## Personal Notes
+
+This is indeed a clone of Remix Indie Stack but upgraded to latest versions and working out of the box for my Remix projects.
+
 ## What's in the stack
 
 - [Fly app deployment](https://fly.io) with [Docker](https://www.docker.com/)
